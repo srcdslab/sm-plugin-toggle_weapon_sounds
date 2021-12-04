@@ -1,0 +1,28 @@
+"Phrases"
+{  
+    "Disable"
+    {
+        "en"    "Enable sounds"
+    }
+    "1"
+    {
+        "en"    "Turn on first paragraph"
+    }
+    "Stop Sound"
+    {
+        "en"    "Disable sounds"
+    }
+    "2"
+    {
+        "en"    "Turn on second paragraph"
+    }
+    "Replace to Silenced Sound"
+    {
+        "en"    "Replace to Silenced Sound"
+    }
+    "3"
+    {
+        "en"    "Turn on three paragraph"
+    }
+}
+
