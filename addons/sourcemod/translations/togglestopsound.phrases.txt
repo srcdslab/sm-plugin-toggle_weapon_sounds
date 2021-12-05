@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"prefix"
+	{
+		"en"	"{green}[StopSound]{default}"
+	}
+	"StopSound_Title"
+	{
+		"en"	"Toggle Stop Weapon Sound (!stopsound)"
+	}
+	"Client_Setting"
+	{
+		"en"	"Your current setting"
+	}
+	"Disable"
+	{
+		"en"	"Enable Sound"
+	}
+	"Stop Sound"
+	{
+		"en"	"Disable Sound"
+	}
+	"Replace to Silenced Sound"
+	{
+		"en"	"Replace to Silenced Sound"
+	}
+	"stop weapon sounds"
+	{
+		"en"	"stop weapon sounds"
+	}
+	"stop your own weapon sounds"
+	{
+		"en"	"stop your own weapon sounds"
+	}
+	"Enabled"
+	{
+		"en"	"Enabled"
+	}
+	"Disabled"	
+	{
+		"en"	"Disabled"
+	}
+	"Loading_Cookies"
+	{
+		"en"	"Your Cookies are not yet cached. Please try again later..."
+	}
+	"Normal"
+	{
+		"en"	"Normal"
+	}
+	"Lowered"
+	{
+		"en"	"Lowered"
+	}
+	"Your Weapon Sound"
+	{
+		"en"	"Your Weapon Sound"
+	}
+}
