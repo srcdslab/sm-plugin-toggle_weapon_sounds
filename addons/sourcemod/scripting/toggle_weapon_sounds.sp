@@ -8,7 +8,7 @@
 #pragma newdecls required
 
 #define PLUGIN_NAME     "Toggle Weapon Sounds clientprefs"
-#define PLUGIN_VERSION  "2.0"
+#define PLUGIN_VERSION  "2.0.1"
 
 int g_iStopSound[MAXPLAYERS+1];
 int g_iSelfStopSound[MAXPLAYERS+1];
